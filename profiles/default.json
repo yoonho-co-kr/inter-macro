@@ -1,0 +1,23 @@
+{
+  "name": "default",
+  "capture_region": [100, 100, 500, 300],
+  "confirm_button": [960, 540],
+  "target_colors": [
+    {
+      "rgb": [80, 200, 120],
+      "tolerance": 14
+    }
+  ],
+  "min_pixels": 8,
+  "scan_interval_seconds": 0.03,
+  "timeout_seconds": 1.2,
+  "max_attempts": 45,
+  "click_delay_seconds": 0.0,
+  "cooldown_seconds": 0.8,
+  "debounce_seconds": 0.2,
+  "required_window_title": null,
+  "hotkey": "<alt>+q",
+  "click_mode": "confirm_button",
+  "debug_dir": "debug"
+}
+
